@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Neemesh Yadav"
 title_separator          : "-"
 name                     : &name "Neemesh Yadav"
-description              : &description "Senior at IIIT Delhi. UG Researcher at LCS2. Prev. Research Intern at MBZUAI."
+description              : &description "Senior at IIIT Delhi. UG Researcher at LCS2."
 url                      : https://Stealth-py.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Stealth-py/Stealth-py.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Neemesh Yadav"
   avatar           : "profile.png"
-  bio              : "Senior at IIIT Delhi. UG Researcher at LCS2. Prev. Research Intern at MBZUAI."
+  bio              : "Senior at IIIT Delhi. UG Researcher at LCS2."
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
