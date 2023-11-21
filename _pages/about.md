@@ -13,7 +13,8 @@ Currently a Senior at [IIIT Delhi](https://iiitd.ac.in/), and a UG Researcher at
 
 My research interests broadly lie between Computational Social Science and Understanding LLMs. More specifically, I am very interested in improving and measuring the limit of reasoning capabilities in LLMs (be it abductive, deductive, or inductive) and leveraging interpretability to uncover answers behind the many subtle behaviors shown by LLMs. Moreover, I am inclined to use my research experience and skills in NLP for Social Good by exposing the hidden dynamics behind societal biases being triggered in LLMs and how they evolve and induce implicit biases! I am devoted to building transparent, explainable, fair, and truthful AI.
 
-In addition to this, my favorite pastime involves playing video games (League of Legends) and watching anime or random YouTube videos.
+In addition to this, my favorite pastime involves playing video games and watching anime or random YouTube videos.
+<!--League of Legends-->
 
 
 _I am currently looking to apply to Ph.D. programs for Fall 2024!_
