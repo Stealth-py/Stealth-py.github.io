@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Hi! I'm Neemesh.\
-I am currently working as a Research Engineer at SMU under Prof. Lim Ee-Peng's group. My work primarily focuses on improving the Theory-of-Mind reasoning of LLM agents. I am also remotely collaborating with Dr. Zhijing Jin on exploring the optimality of sustainable cooperation between LLM agents in a more complex setting and exploring censorship decisions across countries.\
+I am currently working as a Research Engineer at SMU under Prof. Lim Ee-Peng's group. My work primarily focuses on improving the Theory-of-Mind reasoning of LLM agents. I am also remotely collaborating with Dr. Zhijing Jin on exploring censorship across countries, time, and LLMs.
 
-I graduated from [IIIT Delhi](https://iiitd.ac.in/) with a B.Tech degree in 2024, where I also worked as a UG Researcher at the [LCS2](https://lcs2.in/) lab. I was a Research Intern at [MBZUAI](https://mbzuai.ac.ae/), working with Prof. Preslav Nakov for their very first Undergraduate Research Intern Program (UGRIP) in the Summer of 2023. I recently collaborated with researchers at MBZUAI through [LibrAI](https://www.librai.tech/) for work in debiasing + uncertainty estimation[^2] (which was accepted to NAACL'25!).\
+I graduated from [IIIT Delhi](https://iiitd.ac.in/) with a B.Tech degree in 2024, where I also worked as a UG Researcher at the [LCS2](https://lcs2.in/) lab. I was a Research Intern at [MBZUAI](https://mbzuai.ac.ae/), working with Prof. Preslav Nakov for their very first Undergraduate Research Intern Program (UGRIP) in the Summer of 2023. My collaboration with researchers at MBZUAI through [LibrAI](https://www.librai.tech/) for work in debiasing + uncertainty estimation[^2] was accepted to NAACL'25!
 
-My research interests lie mostly in Computational Social Science with some overlap with Interpretability (because it's awesome!). More specifically, I am interested in exploring how or if LLMs are capable of reasoning and the dynamics of societal biases within them -- from a causal lens; improving their social intelligence and trying to understand how they behave the way they do. I am devoted to building transparent, explainable, fair, and truthful AI.
+My research interests lie mostly in Computational Social Science with some overlap with Interpretability (because it's awesome!). More specifically, I am interested in exploring how or if LLMs are capable of reasoning and the dynamics of societal biases within them -- from a causal lens; improving their social intelligence (theory-of-mind, etc.) and trying to understand why they behave the way they do. I am devoted to building transparent, explainable, fair, and truthful AI.
 
 In addition to this, my favorite pastime involves playing video games and watching anime or random YouTube videos.
 <!--League of Legends-->
