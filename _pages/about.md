@@ -18,7 +18,7 @@ In addition to this, my favorite pastime involves playing League of Legends or s
 _I am currently looking for research opportunities (both PhD and industry level) for 2026!_
 
 ### News
-* May 2025: Our work on improving transparency of content moderation and censorship in social media was acecpted to ACL 2025 in Vienna, Austria!
+* May 2025: Our work on improving transparency of content moderation and censorship in social media[^4] was acecpted to ACL 2025 in Vienna, Austria!
 * January 2025: Our work on debiasing[^2], in collaboration with researchers at MBZUAI, was accepted to NAACL 2025 in Albuquerque, New Mexico!
 * January 2025: Started as a Research Engineer at SMU working on Theory-of-Mind reasoning for agents.
 * November 2024: My final UG work on benchmarking reasoning in LLMs[^3] accepted to COLING 2025 in Abu Dhabi, UAE!
