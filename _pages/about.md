@@ -15,7 +15,7 @@ I graduated from [IIIT Delhi](https://iiitd.ac.in/) with a B.Tech degree in 2024
 
 In addition to this, my favorite pastime involves playing League of Legends or soulslike games (think Elden Ring and Dark Souls) and watching anime or random YouTube videos.
 
-_I am currently looking for research opportunities (both PhD and industry level) for 2026!_
+_I will be joining the CMU LTI PhD program in Fall 2026!_
 
 ### News
 * May 2025: Our work on improving transparency of content moderation and censorship in social media[^4] was acecpted to ACL 2025 in Vienna, Austria!
